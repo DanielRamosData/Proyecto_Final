@@ -160,8 +160,7 @@ elif modulo == "EDA":
         st.error("⚠️ Error: Debe cargar los datos primero en el módulo 'Carga de Datos'.")
 
 # --- MÓDULO 4: CONCLUSIONES ---
-# --- MÓDULO 4: CONCLUSIONES ---
-# --- MÓDULO 4: CONCLUSIONES ---
+
 elif modulo == "Conclusiones":
     st.header("Módulo 4: Conclusiones del Análisis Exploratorio 💡")
     
