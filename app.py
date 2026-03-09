@@ -5,7 +5,7 @@ import seaborn as sns
 import numpy as np
 
 # =========================================================
-# 1. PROGRAMACIÓN ORIENTADA A OBJETOS (POO) - DataAnalyzer
+# 1. PROGRAMACIÓN ORIENTADA A OBJETOS (POO) 
 # =========================================================
 class DataAnalyzer:
     def __init__(self, dataframe):
